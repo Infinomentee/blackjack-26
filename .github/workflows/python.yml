@@ -18,4 +18,4 @@ jobs:
         python-version: "3.11"
 
     - name: Run script
-      run: python chatblackjack.py
+      run: python c_test.py
